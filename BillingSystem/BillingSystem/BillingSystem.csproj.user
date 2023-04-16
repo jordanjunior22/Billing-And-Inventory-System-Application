@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AdminConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\confirmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\DealersAndCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\debtsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\howtouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\PurchaseAndSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Transactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\UserMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
